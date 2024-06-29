@@ -13,7 +13,7 @@ const socials = () => {
 
                 </>
             ),
-            href: 'https://github.com/yabuki-nako',
+            href: 'www.linkedin.com/in/lusung14',
             style: 'rounded-tr-md'
         },
         {
