@@ -7,6 +7,7 @@ import Hero from './assets/pages/Hero'
 import Aboutme from './assets/pages/aboutme'
 import Techstack from './assets/pages/techstack'
 import Experience from './assets/pages/experience'
+import Socials from './assets/pages/socials'
 
 function App() {
   // console.log(window.location)
@@ -34,18 +35,26 @@ function App() {
 
     <div className='container mx-auto px-8'>
       <NavBar/>
+      
+      <Socials/>
       <Hero/>
       <Aboutme/>
       <Techstack/>
       <Experience/>
       <Project/>
+      <Contact/>
+
+
     </div>
+
         {/* <Routes>
           <Route path='/home' element={<Home/>}/>
           <Route path='/project' element={<Project/>}/>
           <Route path='contact' element={<Contact/>}/>
         </Routes> */}
+
         </div>
+
     </>
   )
 }

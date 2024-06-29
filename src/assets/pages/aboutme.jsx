@@ -1,7 +1,7 @@
 import React from 'react'
 import picture1 from  '../image/nana1.jpg';
 import picture from  '../image/herobannerpic.JPG';
-
+import { motion } from 'framer-motion';
 const aboutme = () => {
   return (
     <div className="border-b border-neutral-900 pb-4">
