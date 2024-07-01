@@ -24,7 +24,7 @@ const projects = () => {
                         ))}
                         <div className='flex-col '>
                   <button className='mr-2 pmb-4 mt-2 my-2 rounded bg-green-900 px-2 py-1 text-m font-bold text-neutral-100'><a href={project.href}>Source Code</a></button>
-                  <button className='mb-4 mt-2 my-2 rounded bg-orange-900 px-2 py-1 text-m font-bold text-neutral-100 '><a href={project.href2}>Source Code</a></button>
+                  <button className='mb-4 mt-2 my-2 rounded bg-orange-900 px-2 py-1 text-m font-bold text-neutral-100 '><a href={project.href2}>Live Site</a></button>
                 </div>
                 </div>
                 </div>
