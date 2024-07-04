@@ -3,7 +3,7 @@ import clinic1 from  '../image/clinic1.jpg';
 import picture1 from  '../image/herobannerpic.JPG';
 export const EXPERIENCES =[
     {
-        year: "September 2023 - July 2023",
+        year: "January 2024 - April 2024",
         role: " CoreMedia Content Loader - Intern",
         company: "Essilor Shared Services Philippines Incorporated l Alabang, Muntinlupa",
         description: ["Engaged in updating, removing, and adding different components across multiple local sites of Essilor.com Using CoreMedia Content Management System. ",
